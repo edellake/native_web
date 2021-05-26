@@ -1,0 +1,6 @@
+framework module native_web {
+  umbrella header "native_web-umbrella.h"
+
+  export *
+  module * { export * }
+}
